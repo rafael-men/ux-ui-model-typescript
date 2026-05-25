@@ -1,4 +1,4 @@
-<h1>Reise</h1>
+<h1>Reise Model</h1>
 
 <h5> - Esta é uma aplicação front-end com Node.js e Next.js que visa um UI/UX de um site de viagens. </h5>
 
